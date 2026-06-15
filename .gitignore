@@ -1,0 +1,8 @@
+desktop.ini
+*.tmp
+~$*
+
+# Keep unrelated large exports out of this repository unless added intentionally.
+*.mp4
+Mehrsa Assareh.pbix
+Mehrsa Assareh.pdf
