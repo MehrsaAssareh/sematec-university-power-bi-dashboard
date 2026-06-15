@@ -14,6 +14,12 @@ The PBIX file is stored with Git LFS because it is larger than GitHub's standard
 
 ![Sematec University dashboard overview](1.png)
 
+## Report Server
+
+View the published report on Power BI Report Server:
+
+[Sematec University](http://meriii/Reports/powerbi/Sematec%20University)
+
 ## How To Open
 
 1. Install Git LFS if you are cloning the repository.
